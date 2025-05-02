@@ -2,6 +2,8 @@
 
 Mini-Chat-Demo zur Demonstration von ByteStruct mit digital signierten Nachrichten.
 
+Dieses Projekt demonstriert, wie strukturierte, binäre Daten mit einer digitalen Signatur gesichert und verifiziert werden können. Die Anwendung besteht aus einem Mini-Chat, bei dem jede Nachricht als .bstruct gespeichert und gegen Manipulation geschützt wird.
+
 ## 🚀 Installation
 
 ```bash
