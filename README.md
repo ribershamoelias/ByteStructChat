@@ -10,7 +10,7 @@ Dieses Projekt demonstriert, wie strukturierte, binäre Daten mit einer digitale
 git clone https://github.com/ribershamoelias/ByteStructChat.git
 cd ByteStructChat
 pip install -r requirements.txt
-pip install -e ../ByteStruct  # Falls ByteStruct im Nachbarverzeichnis liegt
+pip install -e ../ByteStruct  
 ```
 ## 📨 Nachricht senden
 ```bash
