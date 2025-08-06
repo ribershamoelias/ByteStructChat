@@ -33,4 +33,4 @@ Signaturstatus
 
 - pynacl
 
-- dein ByteStruct-Projekt (lokal installiert)
+- ByteStruct-Projekt (lokal installiert)
